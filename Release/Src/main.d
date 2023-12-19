@@ -1,2 +1,2 @@
-Src/main.o: ../Src/main.c ../Inc/RCC/RCC_interface.h
-../Inc/RCC/RCC_interface.h:
+Src/main.o: ../Src/main.c ../Inc/MCAL/RCC/RCC_interface.h
+../Inc/MCAL/RCC/RCC_interface.h:

@@ -9,8 +9,8 @@
 
 /*          char           */
 typedef unsigned char u8;
-typedef signed   char s8;
-typedef char          c8;
+typedef signed char s8;
+typedef char c8;
 
 #define MAX_U8 ((u8)255)
 #define MIN_U8 ((u8)0)
@@ -20,12 +20,12 @@ typedef char          c8;
 
 /*          int           */
 typedef unsigned int u16;
-typedef signed   int s16;
+typedef signed int s16;
 
 #define MAX_U16 ((u16)65535)
 
 /*          long           */
 typedef unsigned long u32;
-typedef signed   long s32;
+typedef signed long s32;
 
 #endif
